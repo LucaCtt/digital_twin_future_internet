@@ -1,0 +1,6 @@
+[submodule "data_extraction"]
+	path = data_extraction
+	url = https://github.com/LucaCtt/appliances_data_extraction
+[submodule "digital_twin"]
+	path = digital_twin
+	url = https://github.com/LucaCtt/smart_home_digital_twin.git
